@@ -1,3 +1,5 @@
+// This file was created with help from:
+// https://www.allaboutcircuits.com/projects/understanding-and-implementing-the-hc-12-wireless-transceiver-module/
 #include <SoftwareSerial.h>
 
 const byte HC12RxdPin = 4;                      // "RXD" Pin on HC12
